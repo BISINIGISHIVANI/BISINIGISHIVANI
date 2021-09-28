@@ -6,9 +6,11 @@
 
 - 🌱 I’m currently learning FrontEndDevelopment Course...
 
-- 📫 How to reach me: email -bisinigishivani@gmail.com
+- 📫 How to reach me: email - bisinigishivani@gmail.com
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ✨ “Coding is the language of the future, and every aspirant should learn it."
+
+               -😄 “Any fool can write code that a computer can understand. ..."
 
 <!--
 **BISINIGISHIVANI/BISINIGISHIVANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
