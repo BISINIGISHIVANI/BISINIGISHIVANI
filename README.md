@@ -10,7 +10,10 @@
 
 - ⚡ Fun fact: ✨ “Coding is the language of the future, and every aspirant should learn it."
 
-               -😄 “Any fool can write code that a computer can understand. ..."
+               -😄 “Any fool can write code that a computer can understand. 
+                    Good programmers write code that humans can understand.”– Martin Fowler
+                                                                                                                    
+               -😄 “Before software can be reusable it first has to be usable.” – Ralph Johnson                                                                                                
 
 <!--
 **BISINIGISHIVANI/BISINIGISHIVANI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
