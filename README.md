@@ -3,7 +3,6 @@
 -😄 I am Successfully Completed my Graduation in Engineering.IIIT-RGUKT,RK Valley - AUG-2021........
 
 - 🌱 I’m currently learning FrontEndDevelopment Course...
-- 
 - i am also interested in https://guides.github.com/features/mastering-markdown/
 - 📫 How to reach me: email - bisinigishivani@gmail.com
 
