@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ---
 
 ### 💻 &nbsp; About Me :
-Learning Frontend development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+Embarking on the journey of frontend development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ---
 
