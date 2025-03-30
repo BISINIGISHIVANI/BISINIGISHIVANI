@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### 💻 &nbsp; About Me :
 Embarking on the journey of frontend development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
+[My Resume] (https://rebrand.ly/shivani_b)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
