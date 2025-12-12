@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-👋 Hello once again, I'm Shivani! [MyResume](https://rebrand.ly/shivani_b)
+👋 Hello once again, I'm Shivani! [MyResume](https://rebrand.ly/shivani_b) || [GITHUB PREVIEW](https://resume.github.io/?BISINIGISHIVANI)
 
 🌟 **Freelance Frontend Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
